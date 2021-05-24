@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="preturi.xsl"?>
+
+<tabel>
+<tabel>
+    <tip>Intrare 1 zi</tip>
+    <pret> 20 RON</pret>
+</tabel>
+
+<tabel>
+    <tip>Abonament sală o lună</tip>
+    <pret>140 RON</pret>
+</tabel>
+
+<tabel>
+    <tip>Abonament sală + saună o lună</tip>
+    <pret>200 RON</pret>
+</tabel>
+</tabel>
